@@ -1,4 +1,4 @@
-// 文件路径: /src/app/api/website-stats/route.ts
+// 文件路径: /src/app/api/umami-stats/route.ts
 
 import { NextRequest, NextResponse } from 'next/server';
 
